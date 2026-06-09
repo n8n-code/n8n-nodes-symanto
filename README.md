@@ -55,7 +55,7 @@ That's it. No configuration files. No code. It just works.
 
 | Resource | Operations |
 |----------|------------|
-| Text Analysis | POST Communication & Tonality, POST Emotion Analysis, POST Emotion Analysis, POST Language Detection, POST Personality Traits, POST Sentiment Analysis, POST Extracts topics and sentiments and relates them. |
+| Text Analysis | Post communication  tonality, Post emotion analysis, Post emotion analysis, Post language detection, Post personality traits, Post sentiment analysis, Post extracts topics and sentiments and relates them |
 
 ---
 
