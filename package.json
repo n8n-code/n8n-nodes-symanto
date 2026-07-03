@@ -1,7 +1,7 @@
 {
   "name": "@n8n-dev/n8n-nodes-symanto",
-  "version": "1.0.1",
-  "description": "We aim to provide the deepest understanding of people through psychology & AI",
+  "version": "1.0.2",
+  "description": "Provide deep human understanding via psychology and AI.",
   "license": "MIT",
   "homepage": "https://n8n-code.github.io/n8n-dev/#/n8n-nodes-symanto",
   "keywords": [
@@ -11,7 +11,7 @@
     "n8n-community-node-package",
     "openapi",
     "swagger",
-    "api",
+    "API",
     "automation",
     "workflow",
     "symanto"

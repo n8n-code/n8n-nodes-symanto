@@ -1,7 +1,7 @@
 import type { INodeProperties } from 'n8n-workflow';
 
 export const textAnalysisDescription: INodeProperties[] = [
-		{
+                {
 			"displayName": "Operation",
 			"name": "operation",
 			"type": "options",
@@ -166,7 +166,7 @@ export const textAnalysisDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Api Key (Header)",
+			"displayName": "API Key (Header)",
 			"name": "security_apikeyheader",
 			"type": "string",
 			"default": "",
@@ -255,7 +255,7 @@ export const textAnalysisDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Api Key (Header)",
+			"displayName": "API Key (Header)",
 			"name": "security_apikeyheader",
 			"type": "string",
 			"default": "",
@@ -344,7 +344,7 @@ export const textAnalysisDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Api Key (Header)",
+			"displayName": "API Key (Header)",
 			"name": "security_apikeyheader",
 			"type": "string",
 			"default": "",
@@ -409,7 +409,7 @@ export const textAnalysisDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Api Key (Header)",
+			"displayName": "API Key (Header)",
 			"name": "security_apikeyheader",
 			"type": "string",
 			"default": "",
@@ -498,7 +498,7 @@ export const textAnalysisDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Api Key (Header)",
+			"displayName": "API Key (Header)",
 			"name": "security_apikeyheader",
 			"type": "string",
 			"default": "",
@@ -587,7 +587,7 @@ export const textAnalysisDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Api Key (Header)",
+			"displayName": "API Key (Header)",
 			"name": "security_apikeyheader",
 			"type": "string",
 			"default": "",
@@ -695,7 +695,7 @@ export const textAnalysisDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Api Key (Header)",
+			"displayName": "API Key (Header)",
 			"name": "security_apikeyheader",
 			"type": "string",
 			"default": "",
